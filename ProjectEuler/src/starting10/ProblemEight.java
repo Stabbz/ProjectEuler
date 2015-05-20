@@ -44,7 +44,8 @@ public class ProblemEight {
 							
 				first = first * Character.getNumericValue(f.charAt(j+i));
 				second = second * Character.getNumericValue(f.charAt(j+i+1));
-								
+				
+			
 			}
 			
 			if(res < second){
